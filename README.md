@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kudoabhijeet/LetsGO">
-    <img src="images/logo.svg" alt="Logo" width="80" height="80">
+    <img src="assets/logo.png" alt="" width="80" height="80">
   </a>
 
   <h3 align="center">GO Programming Language!</h3>
