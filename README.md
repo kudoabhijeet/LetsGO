@@ -22,6 +22,13 @@ It will include my personal notes as well as Documentation snippets provided by 
 ## Contents 
 ### Week 1:
 1. Why GO?
+  • Fast-paving compilation and execution
+  • Do away with the need of working with different subsets of languages for one project.
+  • A boost to code readability and documentation
+  • Offering a thoroughly consistent language
+  • Facilitating easy versioning of the program
+  • Allowing developing with multiple languages
+  • Allowing easier maintenance of dependencies
 2. GO vs. other High Level Languages.
 3. Advantages of GO!
 4. Setting up Develepment Environment.
