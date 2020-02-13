@@ -11,7 +11,7 @@
   <p align="center">
    Getting Started with GO!
     <br />
-    <a href=https://golang.org/doc"><strong>GO Documentation »</strong></a>
+    <a href=https://golang.org/doc><strong>GO Documentation »</strong></a>
     <br />
   </p>
 </p>
