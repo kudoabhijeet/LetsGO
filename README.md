@@ -34,6 +34,8 @@ It will include my personal notes as well as Documentation snippets provided by 
   - Concurrency Support
     - Management of multiple tasks at the same time. Solves the problems in Parallelism (i.e : Conflict in Memory, Dependent tasks, When       do tasks start and stop etc. )
   - Garbage Collection
+    - Automatic memory management. Gives a ton of control over memory allocation. Reduces latency to 1ms. Uses algorithm of Tricolor 
+      Mark & Sweep.
   - Simplicity
   - Scalability
 4. Setting up Develepment Environment.
