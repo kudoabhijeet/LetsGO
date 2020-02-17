@@ -21,7 +21,7 @@ It will include my personal notes as well as Documentation snippets provided by 
 
 ## Contents 
 ### Week 1:
-1. Why GO?
+1. [x] Why GO?
   - Fast-paving compilation and execution
   - Do away with the need of working with different subsets of languages for one project.
   - A boost to code readability and documentation
@@ -29,14 +29,21 @@ It will include my personal notes as well as Documentation snippets provided by 
   - Facilitating easy versioning of the program
   - Allowing developing with multiple languages
   - Allowing easier maintenance of dependencies
-2. GO vs. other High Level Languages.
-3. Advantages of GO!
-  - Concurrency Support
-    - Management of multiple tasks at the same time. Solves the problems in Parallelism (i.e : Conflict in Memory, Dependent tasks, When       do tasks start and stop etc. )
-  - Garbage Collection
-    - Automatic memory management. Gives a ton of control over memory allocation. Reduces latency to 1ms. Uses algorithm of Tricolor 
-      Mark & Sweep.
-  - Simplicity
-  - Scalability
-4. Setting up Develepment Environment.
+2. [ ] GO vs. other High Level Languages.
+3. [x] Advantages of GO!
+  - [x] Concurrency Support
+    - Management of multiple tasks at the same time. 
+    - Solves the problems in Parallelism (i.e : Conflict in Memory, Dependent tasks, When do tasks start and stop etc. )
+  - [x] Garbage Collection
+    - Automatic memory management. 
+    - Gives a ton of control over memory allocation. 
+    - Reduces latency to 1ms. Uses algorithm of Tricolor Mark & Sweep.
+  - [x] Simplicity
+    - Very small language specs. 
+    - [Tutorials and Docs](https://tour.golang.org/welcome/1)
+  - [x] Scalability
+    - Need of the hour with growing Applications.
+    - Features such as Concurrency, Goroutines, Channels help in improving Scalability.
+    
+4. [ ] Setting up Develepment Environment.
 ### Week 2:
