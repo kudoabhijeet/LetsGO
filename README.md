@@ -46,4 +46,7 @@ It will include my personal notes as well as Documentation snippets provided by 
     - Features such as Concurrency, Goroutines, Channels help in improving Scalability.
     
 4. [ ] #### Setting up Develepment Environment.
+  - [x] Download [Go Installer](https://golang.org/dl/)
+  - [x] Verify GOPATH
 ### Week 2:
+  - [x] Writing our first GoLang Program, i.e "Hello World".
