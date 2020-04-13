@@ -14,4 +14,7 @@ func main() {
 	// Accessing Slices
 	fmt.Println(s1[1])
 	fmt.Println(s2[0])
+	//Slice Literals
+	sli:= []int{1,2,3,4,5}
+	fmt.Println(sli)
 }
