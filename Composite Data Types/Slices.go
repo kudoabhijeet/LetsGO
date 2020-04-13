@@ -10,6 +10,8 @@ func main() {
 	fmt.Println(s1)
 	fmt.Println(s2)
 	// Length and Capacity
-	fmt.Print(len(s1), cap(s1))
-
+	fmt.Println(len(s1), cap(s1))
+	// Accessing Slices
+	fmt.Println(s1[1])
+	fmt.Println(s2[0])
 }
