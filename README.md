@@ -50,3 +50,14 @@ It will include my personal notes as well as Documentation snippets provided by 
   - [x] Verify GOPATH
 ### Week 2:
   - [x] Writing our first GoLang Program, i.e "Hello World".
+  - [x] Variables
+  - [x] Variables Initialization
+  - [x] Pointers 
+  - [x] Variable Scope
+  - [x] Deallocating Memory
+  - [x] Garbage Collection
+  - [x] Comments, Printing
+  - [x] Data Types : int, float, strings
+  - [x] String Packages
+  - [x] Control Flow, Scan()
+  - [x] Assignment
