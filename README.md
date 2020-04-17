@@ -69,5 +69,5 @@ It will include my personal notes as well as Documentation snippets provided by 
   - [x] Structs
   - [x] Assignment
   ### Week 4 :
-  - [x] 
+  - [x] RFC
   
