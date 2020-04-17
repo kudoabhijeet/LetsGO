@@ -61,3 +61,13 @@ It will include my personal notes as well as Documentation snippets provided by 
   - [x] String Packages
   - [x] Control Flow, Scan()
   - [x] Assignment
+  ### Week 3 :
+  - [x] Arrays
+  - [x] Slices
+  - [x] Hashtables
+  - [x] Maps
+  - [x] Structs
+  - [x] Assignment
+  ### Week 4 :
+  - [x] 
+  
