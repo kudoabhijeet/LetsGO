@@ -19,3 +19,8 @@ There are four different types of signed and unsigned integers available based o
  - float32	: 32-bit IEEE 754 floating-point number
  - float64	: 64-bit IEEE 754 floating-point number
 ### Strings 
+   ```
+    x:= "Hello World
+    // Prints the String 'x' to Console
+    fmt.Print(x)
+```
