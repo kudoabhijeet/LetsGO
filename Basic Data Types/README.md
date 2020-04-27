@@ -16,4 +16,11 @@ There are four different types of signed and unsigned integers available based o
  - uintptr : It is an unsigned integer type. Its width is not defined, but its can hold all the bits of a pointer value.
   
 ### Floating Point 
+ - float32	: 32-bit IEEE 754 floating-point number
+ - float64	: 64-bit IEEE 754 floating-point number
 ### Strings 
+   ```
+    x:= "Hello World
+    // Prints the String 'x' to Console
+    fmt.Print(x)
+```
