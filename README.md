@@ -69,10 +69,10 @@ It will include my personal notes as well as Documentation snippets provided by 
   - [x] Structs
   - [x] Assignment
   ### Week 4 :
-  - [ ] RFC
-  - [ ] JSON
-  - [ ] File Access - IOUtil 
-  - [ ] File Access - OS 
+  - [x] RFC
+  - [x] JSON
+  - [x] File Access - IOUtil 
+  - [x] File Access - OS 
   
   
   
