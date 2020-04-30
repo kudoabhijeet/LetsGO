@@ -9,5 +9,17 @@
     fmt.Println(arr) 
   ```
 ### Slices
+- Slice is a special data type in Go! It can be created by slicing an array or using a Slice Constructor. 
+- Slicing an Array 
+  ```
+    arr := [...]string{"a", "b", "c", "d", "e", "f", "g", "h"}
+    s1 := arr[1:3] // Slicing arr 
+    fmt.Println(s1)
+  ```
+- Slice Constructor 
+  ```
+    sli:= []int{1,2,3,4,5}
+	  fmt.Println(sli)
+  ```
 ### HashTables
 ### Maps
