@@ -22,4 +22,14 @@
 	  fmt.Println(sli)
   ```
 ### HashTables
+- HashTables in Go is same as Hash implementation in other programming languages.
+- HashTables are internally implemented through Maps in Go.
+
 ### Maps
+- Maps in Go link Key,Value pairs together.
+- Implementing HashTables through Maps
+  ```
+  id := map[string]int{"joe": 123}
+  fmt.Print(id["joe"])
+  ```
+
