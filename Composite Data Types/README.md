@@ -30,6 +30,6 @@
 - Implementing HashTables through Maps
   ```
   id := map[string]int{"joe": 123}
-  fmt.Print(id["joe"])
+  fmt.Print(id["Alan"])
   ```
 
