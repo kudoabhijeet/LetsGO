@@ -18,6 +18,7 @@
 
 This repository will keep track of my GO learning experience. The entire phase is divided into 4 Weeks.
 It will include my personal notes as well as Documentation snippets provided by the GO Community.
+Follow along of you want to get started with Go. 
 
 ## Contents 
 ### Week 1:
