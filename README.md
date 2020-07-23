@@ -62,6 +62,7 @@ Follow along of you want to get started with Go.
   - [x] String Packages
   - [x] Control Flow, Scan()
   - [x] Assignment
+  
   ### Week 3 :
   - [x] Arrays
   - [x] Slices
@@ -69,6 +70,7 @@ Follow along of you want to get started with Go.
   - [x] Maps
   - [x] Structs
   - [x] Assignment
+  
   ### Week 4 :
   - [x] RFC
   - [x] JSON
